@@ -10,4 +10,8 @@ cd MegaYeye-bot
 pip install -r requirements.txt
 
 nano .env
+
+# Running
+
+python3 main.py
     
